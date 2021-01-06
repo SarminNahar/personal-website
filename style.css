@@ -1,0 +1,163 @@
+body{
+    margin: 0;
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+#top-button-right a{
+    text-decoration: none;
+    font-size: 15px;
+    float: right;
+    margin-left: 20px;
+    font-weight: 700;
+    margin-top: 0px;
+    padding-right: 6%;
+    width: 30px;
+   
+   
+}
+h1{
+font-size: 50px;
+line-height:20px;
+clear: both;
+}
+p{
+    font-size: 24px;
+}
+.namecolor{
+    color:rgb(255, 102, 0);
+}
+.button{
+    text-decoration:none ;
+    background-color:rgb(255, 102, 0); 
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: wheat;
+    background-image: linear-gradient(90deg,tomato,orange);
+    font-weight: 700;
+
+}
+.half-width{
+    float: left;
+    width:40%;
+    margin-left: 20px;
+    padding-left: 2%;
+    
+}
+.half-width img{
+    width: 100%;
+}
+.buttonD{
+background-color:cyan;
+color:white;
+padding:10px 20px;
+width:30%;
+border-radius: 10px;
+background-image: linear-gradient(90deg,DodgerBlue,cyan);
+width: 700;
+text-decoration: none;
+}
+
+#middle-heading{
+    font-size: 30px;
+    text-align: center;
+}
+.image img{
+    width: 100%;
+   
+}
+.image{
+    float: left;
+    width:20%;
+    margin-left:6%;
+    padding-left:2%;
+}
+.middle-banner{
+    background-color: rgb(253, 216, 237);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:20px 10px;
+    height: 500px;
+
+}
+   
+.section{
+    height: 650px;
+    width:100%;  
+}
+#chat-button{
+    text-decoration: none;
+    background-color:rgb(255, 102, 0); 
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: 700;
+    color: white;
+    background-image: linear-gradient(90deg,tomato,orange);
+}
+.extra-margin{
+    margin-top: 100px;
+}
+.half-width2{
+    float: left;
+    text-align: center;
+    width:40%;
+    padding-left:90px;
+
+}
+.last-banner{
+    background-image: url("image/img7.png");
+    background-repeat: no-repeat;
+    height: 260px;
+    margin: 10%;
+    background-size: cover;
+   
+}
+.last-banner h2{
+    margin-top: 100px;
+}
+#information{
+  text-align: center;
+  line-height: 10px;
+  clear: both;
+ 
+  
+}
+#information h2{
+    font-size: 13px;
+    font-weight: 10px;
+}
+.icon img{
+    width: 3%;
+}
+.centerimage{
+    text-align: center;  
+}
+footer h4{
+    text-align: center;
+    font-size: 10px;
+}
+.extra-part{
+    width:100%;
+   margin-top:20px;
+    padding-left: 4%;
+    height: 300px;
+    
+}
+.extra-part1{
+        box-shadow:20px 20px 20px wheat;
+        background-color: wheat;
+        border-radius: 5px;
+        
+        border-left: 7px solid;
+        border-image: linear-gradient(180deg, cyan,rgb(71, 74, 255));
+        border-image-slice: 1;
+}
+.extra-part2{
+    box-shadow: 20px 20px 20px wheat;
+    background-color:wheat;
+    border-radius: 10px;
+
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, rgb(252, 2, 85),rgba(231, 4, 252, 0.849));
+    border-image-slice: 1;
+}
